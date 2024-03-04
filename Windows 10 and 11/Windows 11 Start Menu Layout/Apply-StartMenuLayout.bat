@@ -1,0 +1,1 @@
+echo f|xcopy /e /s /y /h /i "\\SERVERNAME\deploymentshare$\Applications\Windows 11 Start Menu Layout\start2.bin" "C:\Users\Default\AppData\Local\Packages\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\LocalState\start2.bin"
