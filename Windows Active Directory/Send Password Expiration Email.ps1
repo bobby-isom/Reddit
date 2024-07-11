@@ -164,9 +164,9 @@ foreach ($user in $users) {
 
     <p style=`"font-family:verdana;font-size:11;`">2. Open Sophos Connect and press disconnect.</p>
 
-    <p style=`"font-family:verdana;font-size:11;`">3. Connect to the FirstPoint VPN connection and enter your username as <b>$sName</b> and new password.</p>
+    <p style=`"font-family:verdana;font-size:11;`">3. Connect to the VPN connection and enter your username as <b>$sName</b> and new password.</p>
 
-    <p style=`"font-family:verdana;font-size:11;`">When your password has expired, you will be unable to login and connect to Sophos Connect and will be unable to reset your password.</p>
+    <p style=`"font-family:verdana;font-size:11;`">When your password has expired, you will be unable to login and connect to the VPN and will be unable to reset your password.</p>
 
     <p style=`"font-family:verdana;font-size:11;`">If this happens, please call XXXX and request a password reset.</p
 
